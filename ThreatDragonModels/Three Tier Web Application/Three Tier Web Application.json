@@ -467,7 +467,7 @@
               "threats": [
                 {
                   "id": "264eeb9a-f5b3-4224-93e7-ac0cb72f20de",
-                  "title": "Store Sensitive Data",
+                  "title": "asdasdasdasdStore Sensitive Data",
                   "status": "Mitigated",
                   "severity": "High",
                   "type": "Information disclosure",
@@ -496,7 +496,7 @@
                 "spoofing": 0,
                 "tampering": 0,
                 "repudiation": 0,
-                "informationDisclosure": 2,
+                "informationDisclosure": 3,
                 "denialOfService": 0,
                 "elevationOfPrivilege": 0
               }
